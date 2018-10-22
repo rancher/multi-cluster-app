@@ -92,7 +92,7 @@ github.com/rancher/norman/urlbuilder
 github.com/rancher/norman/types/factory
 github.com/rancher/norman/store/empty
 github.com/rancher/norman/store/schema
-# github.com/rancher/types v0.0.0-20181018184021-9cf979f1663b => github.com/prachidamle/types v0.0.0-20181020064654-2c3b435f0686
+# github.com/rancher/types v0.0.0-20181022213937-5d6bb759702c
 github.com/rancher/types/config
 github.com/rancher/types/apis/management.cattle.io/v3/schema
 github.com/rancher/types/client/management/v3
